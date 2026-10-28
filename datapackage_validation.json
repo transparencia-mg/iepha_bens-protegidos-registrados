@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.07,
+  "time": 0.096,
   "errors": [],
   "tasks": [
     {
@@ -92,13 +92,13 @@
         "scheme": "file",
         "title": "Bens Protegidos - Registrados",
         "stats": {
-          "hash": "e54981f18be4b1060b6d4e7941b6958c",
-          "bytes": 250792,
+          "hash": "3e1353ebbed770e64ce8baa5a76207d5",
+          "bytes": 377932,
           "fields": 7,
-          "rows": 2981
+          "rows": 3988
         }
       },
-      "time": 0.06,
+      "time": 0.084,
       "scope": [
         "hash-count-error",
         "byte-count-error",
